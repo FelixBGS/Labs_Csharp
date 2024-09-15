@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\C#\\Labs_Csharp\\lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{95D6E007-3BCA-4979-BA18-32B0A46BBB34}|Figure\\Figure.csproj|c:\\users\\ivan\\desktop\\c#\\labs_csharp\\lab\\figure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D6E007-3BCA-4979-BA18-32B0A46BBB34}|Figure\\Figure.csproj|solutionrelative:figure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{791201C9-C2D7-4BBF-A079-66FB2A87DE55}|lab\\lab.csproj|c:\\users\\ivan\\desktop\\c#\\labs_csharp\\lab\\lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{791201C9-C2D7-4BBF-A079-66FB2A87DE55}|lab\\lab.csproj|solutionrelative:lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,15 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -31,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\C#\\Labs_Csharp\\lab\\Figure\\Class1.cs",
+              "RelativeDocumentMoniker": "Figure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\C#\\Labs_Csharp\\lab\\Figure\\Class1.cs",
+              "RelativeToolTip": "Figure\\Class1.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAUwFMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:02:10.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\C#\\Labs_Csharp\\lab\\lab\\Program.cs",
               "RelativeDocumentMoniker": "lab\\Program.cs",
               "ToolTip": "C:\\Users\\Ivan\\Desktop\\C#\\Labs_Csharp\\lab\\lab\\Program.cs",
               "RelativeToolTip": "lab\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T18:45:57.457Z",
               "EditorCaption": ""
