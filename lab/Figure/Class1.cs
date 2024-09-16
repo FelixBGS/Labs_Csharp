@@ -18,7 +18,7 @@ namespace Figure
         {
             if (x1 * (y2 - y3) + x2 * (y3 - y1) + x3 * (y1 - y2) == 0)
             {
-                throw new ArgumentException("Треугольник из этих точек невозможно образовать.")
+                throw new ArgumentException("Треугольник из этих точек невозможно образовать.");
             }
             this.x1 = x1;
             this.y1 = y1;
