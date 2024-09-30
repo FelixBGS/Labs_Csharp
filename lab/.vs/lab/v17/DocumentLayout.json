@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{DEBC9E7F-FF2F-4620-80E9-DFEFDB8EF81A}|lab\\lab.csproj|solutionrelative:lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B05F8D-6FD8-4CDD-AB39-D693BF1E4CD3}|Matrix\\Matrix.csproj|c:\\users\\ivan\\desktop\\c#\\labs_csharp\\lab\\matrix\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B05F8D-6FD8-4CDD-AB39-D693BF1E4CD3}|Matrix\\Matrix.csproj|solutionrelative:matrix\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62B05F8D-6FD8-4CDD-AB39-D693BF1E4CD3}|Matrix\\Matrix.csproj|C:\\Users\\Ivan\\Desktop\\C#\\Labs_Csharp\\lab\\Matrix\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B05F8D-6FD8-4CDD-AB39-D693BF1E4CD3}|Matrix\\Matrix.csproj|solutionrelative:Matrix\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,29 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\C#\\Labs_Csharp\\lab\\Matrix\\Class1.cs",
-              "RelativeDocumentMoniker": "Matrix\\Class1.cs",
-              "ToolTip": "C:\\Users\\Ivan\\Desktop\\C#\\Labs_Csharp\\lab\\Matrix\\Class1.cs",
-              "RelativeToolTip": "Matrix\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T07:37:00.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\C#\\Labs_Csharp\\lab\\lab\\Program.cs",
               "RelativeDocumentMoniker": "lab\\Program.cs",
               "ToolTip": "C:\\Users\\Ivan\\Desktop\\C#\\Labs_Csharp\\lab\\lab\\Program.cs",
               "RelativeToolTip": "lab\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCsAAAAfAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T07:33:25.172Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\C#\\Labs_Csharp\\lab\\Matrix\\Class1.cs",
+              "RelativeDocumentMoniker": "Matrix\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\C#\\Labs_Csharp\\lab\\Matrix\\Class1.cs",
+              "RelativeToolTip": "Matrix\\Class1.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAswFEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:37:00.854Z"
             }
           ]
         }
