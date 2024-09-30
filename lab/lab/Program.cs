@@ -51,17 +51,38 @@ namespace lab
                 {
                     case 1:
                         {
-                            (matrix1 * matrix2).Print();
+                            try
+                            {
+                                Matrix matrixProduct = matrix1 * matrix2;
+                                matrixProduct.Print();
+                            } catch (ArgumentException)
+                            {
+                                Console.WriteLine("Матрицы не одинакого размера");
+                            }
                             break;
                         }
                     case 2:
                         {
-                            (matrix1 + matrix2).Print();
+                            try
+                            {
+                                Matrix matrixSum = matrix1 + matrix2;
+                                matrixSum.Print();
+                            } catch (ArgumentException)
+                            {
+                                Console.WriteLine("Матрицы не одинакого размера");
+                            }
                             break;
                         }
                     case 3:
                         {
-                            (matrix1 - matrix2).Print();
+                            try
+                            {
+                                Matrix matrixSubstraction = matrix1 - matrix2;
+                                matrixSubstraction.Print();
+                            } catch (ArgumentException)
+                            {
+                                Console.WriteLine("Столбцы матрицы 1 не совпадают со строками матрицы 2");
+                            }
                             break;
                         }
                     case 0:

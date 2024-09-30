@@ -1,0 +1,10 @@
+C:\Users\Ivan\Desktop\C#\Labs_Csharp\lab\lab\bin\Release\lab.exe.config
+C:\Users\Ivan\Desktop\C#\Labs_Csharp\lab\lab\bin\Release\lab.exe
+C:\Users\Ivan\Desktop\C#\Labs_Csharp\lab\lab\bin\Release\lab.pdb
+C:\Users\Ivan\Desktop\C#\Labs_Csharp\lab\lab\bin\Release\Matrix.dll
+C:\Users\Ivan\Desktop\C#\Labs_Csharp\lab\lab\bin\Release\Matrix.pdb
+C:\Users\Ivan\Desktop\C#\Labs_Csharp\lab\lab\obj\Release\lab.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\C#\Labs_Csharp\lab\lab\obj\Release\lab.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\C#\Labs_Csharp\lab\lab\obj\Release\lab.csproj.Up2Date
+C:\Users\Ivan\Desktop\C#\Labs_Csharp\lab\lab\obj\Release\lab.exe
+C:\Users\Ivan\Desktop\C#\Labs_Csharp\lab\lab\obj\Release\lab.pdb
