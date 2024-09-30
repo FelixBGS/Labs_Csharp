@@ -1,0 +1,6 @@
+C:\Users\Ivan\Desktop\C#\Labs_Csharp\lab\Matrix\bin\Debug\Matrix.dll
+C:\Users\Ivan\Desktop\C#\Labs_Csharp\lab\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Ivan\Desktop\C#\Labs_Csharp\lab\Matrix\obj\Debug\Matrix.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\C#\Labs_Csharp\lab\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\C#\Labs_Csharp\lab\Matrix\obj\Debug\Matrix.dll
+C:\Users\Ivan\Desktop\C#\Labs_Csharp\lab\Matrix\obj\Debug\Matrix.pdb
